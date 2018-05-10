@@ -1,0 +1,21 @@
+---
+# list of applications to install
+general:
+  local_home: "{{ lookup('env','HOME') }}"
+
+# homebrew applications
+apps:
+  - git
+  - curl
+  - wget
+  - vim
+
+# homebrew cask applications
+cask_apps:
+  - google-chrome
+  - slack
+  - iterm2
+  - docker
+  - vagrant
+  - virtualbox
+  - spotify
