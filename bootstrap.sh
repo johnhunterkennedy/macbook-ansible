@@ -11,7 +11,7 @@ sudo easy_install ansible
 installdir="/tmp/ansiblemac-$RANDOM"
 mkdir $installdir
 
-git clone  $installdir # repo URL
+git clone https://github.com/johnhunterkennedy/macbook-ansible.git $installdir # repo URL
 if [ ! -d $installdir ]; then
     echo "Failed to find ansiblemac."
     echo "git cloned failed"
