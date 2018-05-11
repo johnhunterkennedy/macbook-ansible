@@ -25,6 +25,6 @@ echo "Completing setup..."
 
 rm -Rfv /tmp/$installdir
 
-echo "All done! Enjoy!"
+echo "Setup complete!"
 
 exit 0
