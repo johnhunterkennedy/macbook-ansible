@@ -1,8 +1,8 @@
 ### macbook-ansible
 
-Ansible playbook to install apps on a new MacBook. Work in progress.
+Ansible playbook to provision new dev MacBook. Work in progress.
 
-To setup, run the following :
+Setup:
 ```
-curl -s https://raw.githubusercontent.com/johnhunterkennedy/macbook-ansible/master/bootstrap.sh | /bin/bash
+curl -s https://raw.githubusercontent.com/johnhunterkennedy/macbook-ansible/master/provision.sh | /bin/bash
 ```
