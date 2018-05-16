@@ -1,5 +1,4 @@
 #!/bin/bash
-# Script to bootstrap setting up a new MacBook with Ansible
 
 echo "*******************************************"
 echo    "Setting up your MacBook with Magic"
