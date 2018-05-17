@@ -6,7 +6,7 @@ Setup:
 ```
 curl -s https://raw.githubusercontent.com/johnhunterkennedy/macbook-ansible/master/provision.sh | /bin/bash
 ```
-### Current applications
+### Current applications:
 #### homebrew
 * git
 * curl
