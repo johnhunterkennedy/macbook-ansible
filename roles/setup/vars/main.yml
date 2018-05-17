@@ -19,3 +19,5 @@ cask_apps:
   - vagrant
   - virtualbox
   - spotify
+  - atom
+  - sublime-text
