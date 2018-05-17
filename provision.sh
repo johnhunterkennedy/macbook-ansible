@@ -1,8 +1,8 @@
 #!/bin/bash
 
-echo "*******************************************"
-echo    "Setting up your MacBook with Magic"
-echo "*******************************************"
+echo "************************************"
+echo "Provisioning your MacBook with Magic"
+echo "************************************"
 
 sudo easy_install pip
 sudo easy_install ansible
@@ -24,6 +24,6 @@ echo "Completing setup..."
 
 rm -Rfv /tmp/$installdir
 
-echo "All done! Enjoy!"
+echo "Setup complete!"
 
 exit 0
