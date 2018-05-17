@@ -21,5 +21,5 @@ curl -s https://raw.githubusercontent.com/johnhunterkennedy/macbook-ansible/mast
 * Vagrant
 * Virtualbox
 * Spotify
-
-
+* Atom
+* Sublime Text
