@@ -21,3 +21,4 @@ cask_apps:
   - spotify
   - atom
   - sublime-text
+  - keepassx
