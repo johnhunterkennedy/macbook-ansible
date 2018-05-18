@@ -23,3 +23,4 @@ curl -s https://raw.githubusercontent.com/johnhunterkennedy/macbook-ansible/mast
 * Spotify
 * Atom
 * Sublime Text
+* KeePassX
