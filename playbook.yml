@@ -1,5 +1,5 @@
 ---
-# Configure MacBook of the Gods
+# configure MacBook 
 
 - hosts: mac
   roles:

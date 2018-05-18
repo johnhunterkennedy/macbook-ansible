@@ -1,8 +1,8 @@
 #!/bin/bash
 
-echo "************************************"
-echo "Provisioning your MacBook with Magic"
-echo "************************************"
+echo "*******************"
+echo "Configuring MacBook"
+echo "*******************"
 
 sudo easy_install pip
 sudo easy_install ansible

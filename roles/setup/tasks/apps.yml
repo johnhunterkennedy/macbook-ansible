@@ -1,5 +1,5 @@
 ---
-# make sure homebrew is installed, update brew and install applications
+# Make sure homebrew is installed, update brew and install applications
 
 - name: application installs
   include: homebrew.yml
